@@ -8,6 +8,12 @@
 + [List]()
 + [Rob Roy]()
 + [Canon]()
++ Paseo
++ Victrola
++ Vivace
++ The Beer Junction
++ Stone Burner
++ Pike Place
 
 #### Portland
 + Viking Soul Food
