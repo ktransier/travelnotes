@@ -14,6 +14,15 @@
 + The Beer Junction
 + Stone Burner
 + Pike Place
++ The Elliott Bay Book Company
++ Green Lake Park
++ Georgetown Brewing
++ Gas Works
++ Card Kingdom
++ Sun Liquor
++ Linda's
++ The Pink Door
++ Stevens/Baker/Crystal
 
 #### Portland
 + Viking Soul Food
@@ -22,6 +31,7 @@
 + Living Room Theaters
 + Voodoo Dounuts
 + Moonstruck Chocolate
++ Por Que No? Taqueria
 
 #### San Francisco
 + [Ike's Place](http://www.yelp.com/biz/ikes-place-san-francisco)
@@ -35,3 +45,14 @@
 + [Gundlach Bundschu Winery](http://www.yelp.com/biz/gundlach-bundschu-winery-sonoma)
 + [Lagunitas Brewing Co](http://www.yelp.com/biz/lagunitas-brewing-co-petaluma)
 + [Silver Oak Cellars](http://www.yelp.com/biz/silver-oak-cellars-oakville#query:silver%20oak%20winery)
++ 
+
+#### San Diego
+Bottlecraft
+Burger Lounge
+
+#### DC
+Busboys and Poets
+Boundary Stone
+Sticky Rice
+H Street Country Club
